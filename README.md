@@ -1,30 +1,44 @@
 
 <h1>
-# Hi all and welcome to the CS2103 TUT2 Repository
+Hi all and welcome to the CS2103 TUT2 Repository
 </h1>
 
 <p>
-## **HOW TO USE THIS**
+<h2>
+<strong> HOW TO USE THIS </strong>
+</h2>
 </p>
 
 <p>
-### **On _Unix_ platforms**, 
-### just run >>git clone https://github.com/skynobleu/CS2103  in your desired directory
+<h3>
+<strong> On Unix_ platforms, </strong> 
+just run 
+>> git clone https://github.com/skynobleu/CS2103 
+in your desired directory
+</h3>
 </p>
 
 <p>
-### **On _Windows_** , 
-### feel the burn, just clone from website.
+<h3>
+<strong> On _Windows_ , </strong>
+feel the burn, just clone from website.
+</h3>
 </p>
 
 <p>
-## **THINGS TO NOTE:**
+<h2>
+<strong> THINGS TO NOTE: </strong>
+</h2>
+
+<h3>
 <br/>
-### **1.** **Please** create your own branch using your **NAME**
+ <strong>1. Please</strong> create your own branch using your <strong>NAME</strong>
 <br/>
-### **2.** **Create** a separate folder using your **NAME** in the branch
-#### 			(This is to prevent any _conflicts_ with unintended _merges_ and _pulls_ etc.)
+
+ <strong>2. Create</strong> a separate folder using your <strong>NAME</strong> in the branch
+	(This is to prevent any conflicts with unintended merges and pulls etc.)
 <br/>
-### **3.** **Refrain** from touching the master branch. 
+ <strong>3. Refrain</strong> from touching the master branch. 
+</h3>
 </p>
 
