@@ -21,6 +21,6 @@
 ### **2.** **Create** a separate folder using your **NAME** in the branch
 #### 			<This is to prevent any _conflicts_ with unintended _merges_ and _pulls_ etc.>
 
-### **3.** **Enjoy** 
+### **3.** **Refrain** from touching the master branch. 
 
 
