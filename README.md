@@ -1,5 +1,6 @@
-# CS2103A
+
 
 # Hi all and welcome to the CS2103 TUT2 Repository
-# I Recommend that all of you create your own branch aside from master
-# Using your name 
+# I recommend that all of you create your own branch aside from master
+# and create a separate folder using your name in the branch
+# to prevent any conflicts with unintended merges and pulls etc. 
